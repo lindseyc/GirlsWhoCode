@@ -1,2 +1,4 @@
 # GirlsWhoCode
-rock, paper, scissors game
+A game of rock, paper, scissors
+
+Created as part of the application process for GWC
